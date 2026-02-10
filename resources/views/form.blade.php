@@ -95,7 +95,7 @@
         <h2>Contáctame</h2>
         <p>¿Tienes alguna pregunta o propuesta? Escríbeme 👇</p>
 
-        <form action="#" method="post">
+        <form action="/contacto" method="GET">
             <label for="email">Correo electrónico</label>
             <input type="email" id="email" name="email" placeholder="tucorreo@email.com" required>
 
